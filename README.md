@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Kang</h1>
 <h3 align="center">Aspiring to make my time on earth worthwhile</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=xogoodnow&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
