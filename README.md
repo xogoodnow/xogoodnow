@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Kang</h1>
 <h3 align="center">Aspiring to make my time on earth worthwhile</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=xogoodnow&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -78,8 +81,8 @@
   <a href="https://argo-cd.readthedocs.io/en/stable/" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/8c2291236a1945ea50aa74f84cb581780811afcb7f23a977fef259ec82f67876/68747470733a2f2f7265646861742d7363686f6c6172732e6769746875622e696f2f6172676f63642d7475746f7269616c2f6172676f63642d7475746f7269616c2f5f696d616765732f6172676f63642d6c6f676f2e706e67" alt="Argo CD" width="40" height="40"/>
   </a>
-  <a href="https://www.example.com/" target="_blank" rel="noreferrer">
-    <img src="data:image/png;base64,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" alt="New Tool" width="40" height="40"/>
+  <a href="https://gitlab.com/" target="_blank" rel="noreferrer">
+    <img src="https://banner2.cleanpng.com/20180510/qae/avc2afp03.webp" alt="GitLab" width="40" height="40"/>
   </a>
 </p>
 
@@ -102,7 +105,7 @@
     <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40"/>
   </a>
   <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://svn.apache.org/repos/asf/kafka/site/logos/originals/png/ICON%20-%20White%20on%20Transparent.png" alt="Kafka" width="40" height="40"/>
+    <img src="https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,w_178,h_287/https://assets.ubuntu.com/v1/ce971717-Kafka-logo-badge-white.svg" alt="Kafka" width="40" height="40"/>
   </a>
 </p>
 
