@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Kang</h1>
-<h3 align="center">Aspiring to make my time on earth worthwhile</h3>
+<h3 align="center">Aspiring to make my time on Earth :earth_asia: worthwhile</h3>
 
 
 <p align="left">
