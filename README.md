@@ -41,21 +41,23 @@
 #### Databases
 
 <p align="left">
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
+  </a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="Cassandra" width="40" height="40"/>
   </a>
+  <a href="https://clickhouse.com/" target="_blank" rel="noreferrer">
+    <img src="https://static.cdnlogo.com/logos/c/57/clickhouse.svg" alt="ClickHouse" width="40" height="40"/>
+  </a>
+
   <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"/>
   </a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
-  <a href="https://clickhouse.com/" target="_blank" rel="noreferrer">
-    <img src="https://static.cdnlogo.com/logos/c/57/clickhouse.svg" alt="ClickHouse" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  </a>
+
 </p>
 
 #### Programming Languages
